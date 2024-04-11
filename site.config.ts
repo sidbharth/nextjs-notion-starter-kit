@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'sidharth biju',
+  name: 'siddharth biju',
   domain: 'sidb.me',
   author: 'siddharth biju',
 
